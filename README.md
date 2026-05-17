@@ -27,7 +27,7 @@ A modern real-time messaging platform built with Spring Boot and WebSocket.
   - Online/offline status
   - Message history and search
 - **Tech Stack**: Java, Spring Boot, WebSocket (STOMP), Spring Security, MySQL, HTML/CSS/JS
-- **[View Project →](link-to-repo)** | **[Live Demo →](your-demo-link)**
+
 
 #### 2. Employee Management System (EMS)
 A complete HR solution for managing employees, departments, and attendance.
@@ -38,7 +38,7 @@ A complete HR solution for managing employees, departments, and attendance.
   - Leave management & reporting
   - Search & pagination
 - **Tech Stack**: Java, Spring Boot, Spring Data JPA, Thymeleaf, MySQL, Bootstrap
-- **[View Project →](link-to-repo)**
+
 
 #### 3. Library Management System
 A full-featured library management system with book tracking and member management.
@@ -48,8 +48,7 @@ A full-featured library management system with book tracking and member manageme
   - Fine calculation
   - Student & book management
   - Advanced search and filtering
-- **Tech Stack**: Java, Spring Boot, Hibernate, MySQL, Thymeleaf, JavaScript
-- **[View Project →](link-to-repo)**
+- **Tech Stack**: Java, Spring Boot, Hibernate, MySQL, Thymeleaf
 
 ---
 
